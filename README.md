@@ -1,5 +1,6 @@
 # EXPERIMENT NO 02--INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO
 ## Name : Prajin S
+## Date : 04-03-2024
 ## Register Number : 212223230151
 ## Department  : Artificial Intelligence and Data Sceince
 ## AIM:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
